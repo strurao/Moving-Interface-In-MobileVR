@@ -1,8 +1,6 @@
 # Moving-Interface-In-Mobile-VR
 2021 한국컴퓨터그래픽스학회 학술대회 "모바일 가상현실에서의 이동 인터페이스에 관한 연구" 의 제 1 저자로서 본 연구와 실험을 진행했습니다.
 
-홍승현 /Seung Hyun, Hong 1 ,  나기리 /nagiri 2 ,  조윤식 /ChoYunSik 3 ,  김진모 /KIM JINMO 
-
 # Link
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002740163
 
