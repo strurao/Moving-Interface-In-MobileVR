@@ -1,7 +1,6 @@
 # Moving-Interface-In-Mobile-VR
 2021 한국컴퓨터그래픽스학회 학술대회 "모바일 가상현실에서의 이동 인터페이스에 관한 연구" 의 제 1 저자로서 본 연구와 실험을 진행했습니다.
 
-# Link
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002740163
 
 # Abstract
@@ -18,7 +17,7 @@ This study proposes an interface for providing mobile interaction suitable for m
 
 An application that can compare and analyze movement interactions through the proposed interface is produced, and a survey experiment is conducted to analyze the user’s satisfaction with the interface experience and the negative impact on the movement process. It was confirmed that the proposed movement interaction reduced negative effects such as VR sickness along with a satisfactory interface experience for users.
 
-# 스크린샷 ScreenShot
+# ScreenShot
 <img width="350" alt="스크린샷 2022-01-05 오후 3 02 39" src="https://user-images.githubusercontent.com/93331248/148168207-83d3a332-ee30-4e8b-8c8f-0bf2d13316eb.png">
 
 <img width="351" alt="스크린샷 2022-01-05 오후 3 03 04" src="https://user-images.githubusercontent.com/93331248/148168248-8079b46b-09cc-41d1-b5af-168c6cf5e025.png">
